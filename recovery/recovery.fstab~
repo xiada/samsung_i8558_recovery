@@ -1,0 +1,18 @@
+#<src>		<mnt_point>		<type>		<mnt_flags>		<fs_mgr_flags>
+/dev/block/mmcblk0p1	/mrd		emmc
+/dev/block/mmcblk0p2	/mrd1		emmc
+/dev/block/mmcblk0p3	/mep2		emmc
+/dev/block/mmcblk0p4	/efs		ext4
+/dev/block/mmcblk0p5	/dtim		emmc
+/dev/block/mmcblk0p9	/kernel		emmc
+/dev/block/mmcblk0p10	/recovery	emmc
+/dev/block/mmcblk0p11	/radio		emmc
+/dev/block/mmcblk0p12	/nvm		ext4
+/dev/block/mmcblk0p13	/preload	ext4
+/dev/block/mmcblk0p14	/cache		ext4
+/dev/block/mmcblk0p15	/system		ext4
+/dev/block/mmcblk0p16	/data		ext4
+/dev/block/mmcblk1p1	/sdcard		vfat
+/dev/block/mmcblk1	/mnt/sdcard	vfat
+
+
